@@ -1,0 +1,31 @@
+customer_id,first_name,last_name,email,phone,city,state,signup_date
+1,Olivia,Williams,olivia.williams1@example.com,+1-512-555-0001,Seattle,WA,2022-01-08
+2,Noah,Jones,noah.jones2@example.com,+1-512-555-0002,Denver,CO,2022-01-15
+3,Emma,Miller,emma.miller3@example.com,+1-512-555-0003,Chicago,IL,2022-01-22
+4,Ava,Rodriguez,ava.rodriguez4@example.com,+1-512-555-0004,Miami,FL,2022-01-29
+5,Sophia,Hernandez,sophia.hernandez5@example.com,+1-512-555-0005,Portland,OR,2022-02-05
+6,Isabella,Gonzalez,isabella.gonzalez6@example.com,+1-512-555-0006,Boston,MA,2022-02-12
+7,Mia,Anderson,mia.anderson7@example.com,+1-512-555-0007,Houston,TX,2022-02-19
+8,Charlotte,Taylor,charlotte.taylor8@example.com,+1-512-555-0008,Phoenix,AZ,2022-02-26
+9,Amelia,Jackson,amelia.jackson9@example.com,+1-512-555-0009,Atlanta,GA,2022-03-05
+10,Lucas,Lee,lucas.lee10@example.com,+1-512-555-0010,San Diego,CA,2022-03-12
+11,Mason,Thompson,mason.thompson11@example.com,+1-512-555-0011,Dallas,TX,2022-03-19
+12,Ethan,Harris,ethan.harris12@example.com,+1-512-555-0012,San Jose,CA,2022-03-26
+13,Logan,Clark,logan.clark13@example.com,+1-512-555-0013,Orlando,FL,2022-04-02
+14,Jacob,Lewis,jacob.lewis14@example.com,+1-512-555-0014,Nashville,TN,2022-04-09
+15,Elijah,Walker,elijah.walker15@example.com,+1-512-555-0015,Austin,TX,2022-04-16
+16,James,Allen,james.allen16@example.com,+1-512-555-0016,Seattle,WA,2022-04-23
+17,Benjamin,Wright,benjamin.wright17@example.com,+1-512-555-0017,Denver,CO,2022-04-30
+18,Sebastian,Johnson,sebastian.johnson18@example.com,+1-512-555-0018,Chicago,IL,2022-05-07
+19,Jack,Brown,jack.brown19@example.com,+1-512-555-0019,Miami,FL,2022-05-14
+20,Harper,Garcia,harper.garcia20@example.com,+1-512-555-0020,Portland,OR,2022-05-21
+21,Evelyn,Davis,evelyn.davis21@example.com,+1-512-555-0021,Boston,MA,2022-05-28
+22,Abigail,Martinez,abigail.martinez22@example.com,+1-512-555-0022,Houston,TX,2022-06-04
+23,Emily,Lopez,emily.lopez23@example.com,+1-512-555-0023,Phoenix,AZ,2022-06-11
+24,Elizabeth,Wilson,elizabeth.wilson24@example.com,+1-512-555-0024,Atlanta,GA,2022-06-18
+25,Sofia,Thomas,sofia.thomas25@example.com,+1-512-555-0025,San Diego,CA,2022-06-25
+26,Avery,Moore,avery.moore26@example.com,+1-512-555-0026,Dallas,TX,2022-07-02
+27,Ella,Martin,ella.martin27@example.com,+1-512-555-0027,San Jose,CA,2022-07-09
+28,Scarlett,Perez,scarlett.perez28@example.com,+1-512-555-0028,Orlando,FL,2022-07-16
+29,Grace,White,grace.white29@example.com,+1-512-555-0029,Nashville,TN,2022-07-23
+30,Chloe,Sanchez,chloe.sanchez30@example.com,+1-512-555-0030,Austin,TX,2022-07-30
